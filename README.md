@@ -38,7 +38,7 @@ A beautiful, responsive business landing page template built with **Next.js 15**
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/DarkMage208/business-landing-page-template.git
+   git clone https://github.com/darkmage208/business-landing-page-template.git
    cd business-landing-page-template
    ```
 
@@ -151,8 +151,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 
-   - Open an [issue](https://github.com/DarkMage208/business-landing-page-template/issues)
-   - Check the [documentation](https://github.com/DarkMage208/business-landing-page-template/wiki)
+   - Open an [issue](https://github.com/darkmage208/business-landing-page-template/issues)
+   - Check the [documentation](https://github.com/darkmage208/business-landing-page-template/wiki)
    - Contact us at [DarkMage](mailto:harukaleonhart@gmail.com)
 
 ---
